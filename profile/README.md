@@ -1,6 +1,7 @@
 ## 服务模块模版
 
 - 基本模版：[whooshing.template-basic](https://github.com/SJJC-Team/whooshing.template-basic)
+- 集成 PostgreSQL ORM 模版：[whooshing.template-pgsql](https://github.com/SJJC-Team/whooshing.template-pgsql)
 
 
 
