@@ -11,7 +11,7 @@
 - 客户端请求依赖库：[whooshing.toolbox-client](https://github.com/SJJC-Team/whooshing.toolbox-client)
 - 客户端 WebSocket 依赖库：[whooshing.toolbox-websocket](https://github.com/SJJC-Team/whooshing.toolbox-websocket)
 - PostgreSQL ORM 依赖库：[whooshing.toolbox-pgsql](https://github.com/SJJC-Team/whooshing.toolbox-pgsql)
-- 加密文件系统依赖库：[whooshing.toolbox-basic](https://github.com/SJJC-Team/whooshing.toolbox-file-system)
+- 加密文件系统依赖库：[whooshing.toolbox-file-system](https://github.com/SJJC-Team/whooshing.toolbox-file-system)
 - 基本加密，错误处理工具库：[whooshing.toolbox-basic](https://github.com/SJJC-Team/whooshing.toolbox-basic)
 
 
