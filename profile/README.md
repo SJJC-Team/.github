@@ -13,7 +13,7 @@
 - PostgreSQL ORM 依赖库：[whooshing.toolbox-pgsql](https://github.com/SJJC-Team/whooshing.toolbox-pgsql)
 - 加密文件存储依赖库：[whooshing.toolbox-file-storage](https://github.com/SJJC-Team/whooshing.toolbox-file-storage)
 - 基本加密，错误处理工具库：[whooshing.toolbox-basic](https://github.com/SJJC-Team/whooshing.toolbox-basic)
-- 权限系统依赖库：[whooshing.toolbox-privilege-system](https://github.com/SJJC-Team/whooshing.toolbox-privilege-system) **[尚未完成]**
+- 权限系统依赖库：[whooshing.toolbox-privilege-system](https://github.com/SJJC-Team/whooshing.toolbox-privilege-system), [whooshing.toolbox-privilege-module](https://github.com/SJJC-Team/whooshing.toolbox-privilege-module) **[尚未完成]**
 
 
 
